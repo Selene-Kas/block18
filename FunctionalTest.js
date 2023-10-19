@@ -29,6 +29,6 @@
             //alow user to change their payment method 
             //alow user to add a gift card information if applicable 
     //Allow user to click "PLACE ORDER" if payment method and shipping address is filled out correcty and cart is not empty
-            //When user clicks "PLACE ORDER" display order details 
+            //When user clicks "PLACE ORDER" display order details and estimated dilivery date
                 //Allow user to be able to cancel order 
                     //If user clicks "CANCEL ORDER" display the message that their order is succesfully cancelled
